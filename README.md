@@ -1,1 +1,2 @@
-# at-corder-cli-go
+# Go言語を使って、AtCorderに提出した解答をアップロードします。
+
